@@ -1,6 +1,6 @@
 const SHEET_NAME = 'Sheet1';
-const TELEGRAM_BOT_TOKEN = 'YOUR_BOT_TOKEN';
-const TELEGRAM_CHAT_ID = 'YOUR_CHAT_ID';
+const TELEGRAM_BOT_TOKEN = '7759367574:AAGf2kcoBr1gy3br5gN3Pqu6Ps4r_8LEIW0';
+const TELEGRAM_CHAT_ID = '-1002401268306';
 
 function doPost(e) {
   try {
