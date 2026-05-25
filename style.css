@@ -1,0 +1,15 @@
+body {
+  background: #f4f7fb;
+}
+
+.card {
+  max-width: 700px;
+  margin: auto;
+}
+
+#calendar {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
