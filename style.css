@@ -1,15 +1,19 @@
-body {
-  background: #f4f7fb;
+.fc {
+    font-size: 14px;
 }
 
-.card {
-  max-width: 700px;
-  margin: auto;
+.fc-toolbar-title {
+    font-size: 1.8rem !important;
+    font-weight: bold;
 }
 
-#calendar {
-  background: white;
-  padding: 20px;
-  border-radius: 20px;
-  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+.fc-event {
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.fc-daygrid-event {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
